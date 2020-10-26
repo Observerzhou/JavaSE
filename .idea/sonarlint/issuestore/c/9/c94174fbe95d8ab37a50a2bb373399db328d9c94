@@ -1,0 +1,80 @@
+
+N
+squid:S106d"9Replace this use of System.out or System.err by a logger.(½ëg
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ºÆÑ­ÿÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(²Ö´°úÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(›êÃ˜øÿÿÿÿ
+O
+squid:S106I"9Replace this use of System.out or System.err by a logger.(“ùñ“
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ªÜË´øÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(­ ‘ˆüÿÿÿÿ
+O
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ÈáÅÊ
+Usquid:S2133">Remove this object instantiation and use "User.class" instead.(Ç­‚û
+Usquid:UnusedPrivateMethod¨"*Remove this unused private "setId" method.(í¯Î©ÿÿÿÿÿ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(¿¿±úÿÿÿÿ
+P
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(»ŸÆ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Œ¿§º
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ˆþÅß
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(þŠÒ‡
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(§è»
+Msquid:S1854 "6Remove this useless assignment to local variable "c4".(þ£‹Ð
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(“ò™Ñùÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(à£ØÂüÿÿÿÿ
+Usquid:UnusedPrivateMethod¤"*Remove this unused private "getId" method.(åŽ«Žûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹®…û
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(äîÓÕþÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïò‘Ñ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(°˜¦ðùÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¦´•˜
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(î×âÉ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(…”Äüÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßºÎú
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(ðÅÍŽ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ÍÏ½ûÿÿÿÿ
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(°¸Ž…ýÿÿÿÿ
+T
+squid:S106x"9Replace this use of System.out or System.err by a logger.(õš‡àúÿÿÿÿ
+P
+squid:S106†"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ
+O
+squid:S106]"9Replace this use of System.out or System.err by a logger.(µ‚µ¿
+>squid:S1481 "'Remove this unused "c4" local variable.(þ£‹Ð
+U
+squid:S106€"9Replace this use of System.out or System.err by a logger.(Ð÷ƒêøÿÿÿÿ
+N
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ˆÿÊ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(Óèñ¦øÿÿÿÿ
+T
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ÍØðØúÿÿÿÿ
+U
+squid:S106Ž"9Replace this use of System.out or System.err by a logger.(ªÜË´øÿÿÿÿ

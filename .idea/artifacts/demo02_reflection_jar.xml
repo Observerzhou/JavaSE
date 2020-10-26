@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demo02_reflection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo02_reflection_jar</output-path>
+    <root id="archive" name="demo02_reflection.jar">
+      <element id="module-output" name="demo02_reflection" />
+    </root>
+  </artifact>
+</component>
